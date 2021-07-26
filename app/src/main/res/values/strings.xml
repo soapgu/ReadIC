@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ReadIC</string>
+    <string name="welcome">请靠近屏幕读卡</string>
+</resources>
